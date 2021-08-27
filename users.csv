@@ -1,0 +1,7 @@
+userId,name,city,locations
+1,Joe,Paris,"['001', '002', '008']"
+2,Jenny,London,"['003', '004']"
+3,Jack,London,"['003', '005']"
+4,Jill,Berlin,"['006', '007']"
+5,Giovanni,Rome,"['008', '009']"
+6,Carlos,Madrid,"['010', '011']"
